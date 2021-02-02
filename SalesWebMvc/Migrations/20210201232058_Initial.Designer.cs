@@ -18,7 +18,7 @@ namespace SalesWebMvc.Migrations
                 .HasAnnotation("ProductVersion", "2.1.14-servicing-32113")
                 .HasAnnotation("Relational:MaxIdentifierLength", 64);
 
-            modelBuilder.Entity("SalesWebMVC.Models.Departament", b =>
+            modelBuilder.Entity("SalesWebMvc.Models.Departament", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd();
