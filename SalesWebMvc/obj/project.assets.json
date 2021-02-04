@@ -12733,23 +12733,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\wallace.vidal\\.nuget\\packages\\": {},
+    "C:\\Users\\walla_m0aeznf\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\SistemaCrudWebCSharp\\SalesWebMvc\\SalesWebMvc.csproj",
+      "projectUniqueName": "C:\\Dev\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
       "projectName": "SalesWebMvc",
-      "projectPath": "C:\\Dev\\SistemaCrudWebCSharp\\SalesWebMvc\\SalesWebMvc.csproj",
-      "packagesPath": "C:\\Users\\wallace.vidal\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\SistemaCrudWebCSharp\\SalesWebMvc\\obj\\",
+      "projectPath": "C:\\Dev\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
+      "packagesPath": "C:\\Users\\walla_m0aeznf\\.nuget\\packages\\",
+      "outputPath": "C:\\Dev\\SalesWebMvc\\SalesWebMvc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\wallace.vidal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\walla_m0aeznf\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
